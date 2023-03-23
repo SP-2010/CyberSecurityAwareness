@@ -86,41 +86,35 @@ i{
   background-color: white;
   color: black
 }
-
 #popupBox {
-  background: white;
-  margin-top: 50%;
-  padding-bottom: 7%;
-  z-index: 100000 !important;
-  border-radius: 4%;
-  padding-left: 10px;
-  padding-right: 10px;
-} 
+    background: white;
+    margin-top: -14%;
+    padding-bottom: 7%;
+    border-radius: 4%;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 75%;
+    max-width: 406px;
+}
 
 .popup {
-  display: block;
-  background: white;
-  margin-top: 50%;
-  padding-bottom: 7%;
-  z-index: 100000 !important;
-  border-radius: 4%;
-  padding-left: 30px;
-  padding-top: 1px;
-  padding-right: 10px;
-  width: 80%
+    margin-top: 50%;
+    padding-bottom: 7%;
+    padding-top: 1px;
 }
 
 .popupinside {
     clear: both;
 }
 
-#card{
-  width: 90%;
-  height: 90%;
-  background-color: white;
-  border-radius: 30px;
-  text-align: center;
-  display: block;
+#card {
+    width: 90%;
+    height: 90%;
+    background-color: white;
+    border-radius: 30px;
+    text-align: center;
+    display: block;
+    max-width: 200%;
 }
 
 .app {
