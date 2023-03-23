@@ -34,7 +34,7 @@ img {
   width: 85%;
 }
 
-product-card {
+.product-card {
     background-color: white;
     border-radius: 30px;
     width: 67%;
