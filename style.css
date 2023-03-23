@@ -34,13 +34,11 @@ img {
   width: 85%;
 }
 
-.product-card {
-  width: 90%;
-  height: 90%;
-  background-color: white;
-  border-radius: 30px;
-  text-align: center;
-  display: block;
+product-card {
+    background-color: white;
+    border-radius: 30px;
+    width: 67%;
+    max-width: 360px;
 }
 
 button {
